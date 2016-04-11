@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "token": "xxxxx",
+    "public_channel": "#general",
+    "incoming_url": "https://hooks.slack.com/services/xxxxx/xxxxxxx/xxxxxxxxxxxxxxxx"
+}

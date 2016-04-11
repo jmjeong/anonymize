@@ -1,0 +1,29 @@
+{
+  "name": "anonymize",
+  "version": "1.0.0",
+  "description": "A service for posting anonymous messages to a Slack channel",
+  "main": "anonymize.js",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "request": "^2.70.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node anonymize.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jmjeong/anonymize.git"
+  },
+  "keywords": [
+    "slack",
+    "anonymize",
+    "slash"
+  ],
+  "author": "Jaemok Jeong <jmjeong@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmjeong/anonymize/issues"
+  },
+  "homepage": "https://github.com/jmjeong/anonymize#readme"
+}
