@@ -5,7 +5,7 @@ If you are in public channel, `anonymize` posts messages to that channel. If you
 
 ## Install 
 
-- git clone http://github.com/...
+- git clone https://github.com/jmjeong/anonymize.git
 - cd anonymize
 - npm install
 - [edit] config.json
