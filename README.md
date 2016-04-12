@@ -1,6 +1,6 @@
 A service for posting anonymous messages to Slack Channel. Inspired by [Annona](https://github.com/rounds/annona).
 
-If you are in public channel, `anonymize` posts messages to that channel. If you are in private channel, `anonymize` posts messages to config.public_channel.
+If you are in public channel, `anonymize` posts messages to that channel. If you are in private channel, `anonymize` posts messages to `config.public_channel`.
 
 
 ## Install 
@@ -33,7 +33,7 @@ Copy config.json.sample to config.json and edit it
 
 - port: service port to use. default: 5000
 - slack_token: Token value from slack integration - Slash command
-- public_channel: Use this channel when you posts from private group
+- public_channel: Use this channel when you post messages from private group
 - incoming_slack_webhook : Webhook url from slack integration - Incoming Webhooks
 
 
