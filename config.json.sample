@@ -1,6 +1,6 @@
 {
     "port": 5000,
-    "token": "xxxxx",
+    "slack_token": "xxxxx",
     "public_channel": "#general",
-    "incoming_url": "https://hooks.slack.com/services/xxxxx/xxxxxxx/xxxxxxxxxxxxxxxx"
+    "incoming_slack_webhook": "https://hooks.slack.com/services/xxxxx/xxxxxxx/xxxxxxxxxxxxxxxx"
 }
